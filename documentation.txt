@@ -1,0 +1,33 @@
+Countdown Timer - Documentation
+
+
+1. Project Overview
+The Countdown Timer is a web-based application that allows users to set a future date and time. It then counts down in real-time and displays the remaining days, hours, minutes, and seconds until the target time is reached.
+
+2. Technologies Used
+HTML – Structure of the webpage
+
+CSS – Styling and layout
+
+JavaScript – Timer logic and real-time updates
+
+3. Features
+-> Allows users to input a target date & time
+-> Displays real-time countdown (days, hours, minutes, seconds)
+-> Shows "Time's up!" when the countdown ends
+-> User-friendly interface with modern design
+
+/Countdown-Timer
+ ├── index.html   (HTML structure)
+ ├── index.css    (CSS for styling)
+ ├── index.js    (JavaScript for functionality)
+
+5. How It Works
+User selects a future date and time.
+
+Click "Start", and the countdown begins.
+
+The timer updates every second.
+
+When the countdown reaches zero, it displays "Time's up!".
+
